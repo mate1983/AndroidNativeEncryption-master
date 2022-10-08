@@ -1,0 +1,8 @@
+# ninja log v5
+91	300	686907128	CMakeFiles/native-lib.dir/src/main/cpp/aes.c.o	aeae15a90b747a46
+21	1036	686907128	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	5368399b0517e888
+64	1069	686907128	CMakeFiles/native-lib.dir/src/main/cpp/md5.cpp.o	b89e8342fe833e70
+1	1083	686907128	CMakeFiles/native-lib.dir/src/main/cpp/EncodeUtils.cpp.o	fdc05ea27d200bd6
+44	1085	686907128	CMakeFiles/native-lib.dir/src/main/cpp/EnvChecker.cpp.o	40dd37e83e6304b9
+121	1141	686907128	CMakeFiles/native-lib.dir/src/main/cpp/Utils.cpp.o	92a4c97dd1dd3260
+1141	1314	686907128	../../../../build/intermediates/cxx/Debug/03c6r2a6/obj/x86_64/libnative-lib.so	7f2aae603a1ff89d

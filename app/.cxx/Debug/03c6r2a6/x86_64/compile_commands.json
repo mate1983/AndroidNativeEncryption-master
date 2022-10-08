@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/labs/android/AndroidNativeEncryption-master/app/.cxx/Debug/03c6r2a6/x86_64",
+  "command": "C:\\Users\\xy\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --sysroot=C:/Users/xy/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\native-lib.cpp.o -c D:\\labs\\android\\AndroidNativeEncryption-master\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:/labs/android/AndroidNativeEncryption-master/app/src/main/cpp/native-lib.cpp"
+},
+{
+  "directory": "D:/labs/android/AndroidNativeEncryption-master/app/.cxx/Debug/03c6r2a6/x86_64",
+  "command": "C:\\Users\\xy\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --sysroot=C:/Users/xy/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\EnvChecker.cpp.o -c D:\\labs\\android\\AndroidNativeEncryption-master\\app\\src\\main\\cpp\\EnvChecker.cpp",
+  "file": "D:/labs/android/AndroidNativeEncryption-master/app/src/main/cpp/EnvChecker.cpp"
+},
+{
+  "directory": "D:/labs/android/AndroidNativeEncryption-master/app/.cxx/Debug/03c6r2a6/x86_64",
+  "command": "C:\\Users\\xy\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --sysroot=C:/Users/xy/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\EncodeUtils.cpp.o -c D:\\labs\\android\\AndroidNativeEncryption-master\\app\\src\\main\\cpp\\EncodeUtils.cpp",
+  "file": "D:/labs/android/AndroidNativeEncryption-master/app/src/main/cpp/EncodeUtils.cpp"
+},
+{
+  "directory": "D:/labs/android/AndroidNativeEncryption-master/app/.cxx/Debug/03c6r2a6/x86_64",
+  "command": "C:\\Users\\xy\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --sysroot=C:/Users/xy/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\aes.c.o -c D:\\labs\\android\\AndroidNativeEncryption-master\\app\\src\\main\\cpp\\aes.c",
+  "file": "D:/labs/android/AndroidNativeEncryption-master/app/src/main/cpp/aes.c"
+},
+{
+  "directory": "D:/labs/android/AndroidNativeEncryption-master/app/.cxx/Debug/03c6r2a6/x86_64",
+  "command": "C:\\Users\\xy\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --sysroot=C:/Users/xy/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\md5.cpp.o -c D:\\labs\\android\\AndroidNativeEncryption-master\\app\\src\\main\\cpp\\md5.cpp",
+  "file": "D:/labs/android/AndroidNativeEncryption-master/app/src/main/cpp/md5.cpp"
+},
+{
+  "directory": "D:/labs/android/AndroidNativeEncryption-master/app/.cxx/Debug/03c6r2a6/x86_64",
+  "command": "C:\\Users\\xy\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --sysroot=C:/Users/xy/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\Utils.cpp.o -c D:\\labs\\android\\AndroidNativeEncryption-master\\app\\src\\main\\cpp\\Utils.cpp",
+  "file": "D:/labs/android/AndroidNativeEncryption-master/app/src/main/cpp/Utils.cpp"
+}
+]
